@@ -1,7 +1,7 @@
 # Linked-List
 Linked Question(LeetCode)
 1.
-Given the head of a singly linked list, return true if it is a 
+234 Given the head of a singly linked list, return true if it is a 
 palindrome
  or false otherwise.
 
